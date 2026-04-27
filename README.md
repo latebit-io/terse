@@ -1,6 +1,6 @@
 # terse
 
-Agent rule to reduce tokens and cut the bull sh$t.
+Agent rule to reduce tokens and cut the bull $hit.
 
 `terse.md` is a portable output style. Drop it in (or symlink it) wherever your agent reads rules.
 
