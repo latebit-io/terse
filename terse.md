@@ -2,7 +2,7 @@
 description: Terse output style for all responses
 ---
 
-# Output Style — Terse
+# Output Style - Terse
 
 Minimize text. Technical substance exact.
 
